@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/LightHoouse/.github/main/profile/assets/lighthouse.svg" alt="Lighthouse" width="100"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/LightHoouse/.github/main/profile/assets/lighthouse.png" alt="Lighthouse" width="600"></p>
 <h1 align="center">Find your next step.</h1>
 <p align="center">A personal lab assistant that helps students learn computer tasks at their own pace. 🔦</p>
 <p align="center"><a href="https://github.com/LightHoouse/LightHouse-App/releases">Windows downloads</a> · <a href="https://github.com/LightHoouse/LightHouse-App">Desktop app</a> · <a href="https://github.com/LightHoouse/LightHosue-Backend">Backend</a> · <a href="https://github.com/LightHoouse/LightHouse-AI">AI service</a></p>
