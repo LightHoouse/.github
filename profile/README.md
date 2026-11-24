@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/LightHoouse/.github/main/profile/assets/lighthouse.png" alt="Lighthouse" width="600"></p>
 <h1 align="center">Find your next step.</h1>
-<p align="center">A personal lab assistant that helps students learn computer tasks at their own pace. 🔦</p>
-<p align="center"><a href="https://github.com/LightHoouse/LightHouse-App/releases">Windows downloads</a> · <a href="https://github.com/LightHoouse/LightHouse-App">Desktop app</a> · <a href="https://github.com/LightHoouse/LightHosue-Backend">Backend</a> · <a href="https://github.com/LightHoouse/LightHouse-AI">AI service</a></p>
+<p align="center">A personal lab assistant that helps students learn computer tasks at their own pace. ðŸ”¦</p>
+<p align="center"><a href="https://github.com/LightHoouse/LightHouse-App/releases">Windows downloads</a> Â· <a href="https://github.com/LightHoouse/LightHouse-App">Desktop app</a> Â· <a href="https://github.com/LightHoouse/LightHosue-Backend">Backend</a> Â· <a href="https://github.com/LightHoouse/LightHouse-AI">AI service</a></p>
 
 ## Learning, one step at a time
 
@@ -11,6 +11,11 @@ Computer labs move quickly. Lighthouse is being built to help students find the 
 - **Connected support.** Assistants record accessible controls across applications with a compact floating toolbar; the backend keeps recordings scoped to each group.
 - **Grounded suggestions.** The AI service retrieves recorded steps and selects a reference; it does not invent selectors or coordinates.
 
+## Product preview
+
+<p align="center"><img src="https://raw.githubusercontent.com/LightHoouse/LightHouse-App/master/docs/screenshots/welcome.png" alt="Lighthouse group join screen" width="360"> <img src="https://raw.githubusercontent.com/LightHoouse/LightHouse-App/master/docs/screenshots/student-chat.png" alt="Lighthouse student chat" width="360"></p>
+
+Students join a class with a code, ask questions with **Alt+L**, and receive guidance grounded in the assistant's recorded workflow. Assistants can pause, resume, manage a class, and move recordings between laptops as portable `.lighthouse` files.
 ## Repositories
 
 | Repository | Purpose |
