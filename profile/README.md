@@ -13,9 +13,11 @@ Computer labs move quickly. Lighthouse is being built to help students find the 
 
 ## Product preview
 
-<p align="center"><img src="https://raw.githubusercontent.com/LightHoouse/LightHouse-App/master/docs/screenshots/welcome.png" alt="Lighthouse group join screen" width="360"> <img src="https://raw.githubusercontent.com/LightHoouse/LightHouse-App/master/docs/screenshots/student-chat.png" alt="Lighthouse student chat" width="360"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/LightHoouse/LightHouse-App/master/docs/screenshots/01-welcome.png" alt="Lighthouse group join screen" width="360"> <img src="https://raw.githubusercontent.com/LightHoouse/LightHouse-App/master/docs/screenshots/10-chat-answer.png" alt="Lighthouse student chat" width="360"></p>
 
 Students join a class with a code, ask questions with **Alt+L**, and receive guidance grounded in the assistant's recorded workflow. Assistants can pause, resume, manage a class, and move recordings between laptops as portable `.lighthouse` files.
+Preview uses fictional demo classroom data. Recording imports are confirmed from a detail screen before being added to a class.
+
 ## Repositories
 
 | Repository | Purpose |
